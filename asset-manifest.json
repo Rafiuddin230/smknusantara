@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/smknusantara/static/css/main.30ea52ad.css",
+    "main.js": "/smknusantara/static/js/main.8b722fca.js",
+    "static/js/787.9ce9f379.chunk.js": "/smknusantara/static/js/787.9ce9f379.chunk.js",
+    "static/media/Carousel 3.png": "/smknusantara/static/media/Carousel 3.3c4afe9c1edcf4373e4e.png",
+    "static/media/Carousel 2.png": "/smknusantara/static/media/Carousel 2.eec28689f6ff7f96fda8.png",
+    "static/media/Carousel 1.png": "/smknusantara/static/media/Carousel 1.7d795bf0c53c82adaae3.png",
+    "static/media/Kegiatan (1).png": "/smknusantara/static/media/Kegiatan (1).a46a637a31938699fd24.png",
+    "static/media/Kegiatan (2).png": "/smknusantara/static/media/Kegiatan (2).3f0dda23be5548412ffc.png",
+    "static/media/Kegiatan (3).png": "/smknusantara/static/media/Kegiatan (3).642e674d293023c72c27.png",
+    "static/media/Kegiatan (4).png": "/smknusantara/static/media/Kegiatan (4).9cde22f9811513c7307d.png",
+    "static/media/TKR.png": "/smknusantara/static/media/TKR.c465b83a8a4c779bd163.png",
+    "static/media/TSM.png": "/smknusantara/static/media/TSM.f4aeeb1b26dddcc75a62.png",
+    "static/media/TKJ.png": "/smknusantara/static/media/TKJ.42813c1863b04abaae20.png",
+    "index.html": "/smknusantara/index.html",
+    "main.30ea52ad.css.map": "/smknusantara/static/css/main.30ea52ad.css.map",
+    "main.8b722fca.js.map": "/smknusantara/static/js/main.8b722fca.js.map",
+    "787.9ce9f379.chunk.js.map": "/smknusantara/static/js/787.9ce9f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.8b722fca.js"
+  ]
+}
